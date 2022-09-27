@@ -1,2 +1,2 @@
-# c-prog
+# c_programming
 C Programming Examples
